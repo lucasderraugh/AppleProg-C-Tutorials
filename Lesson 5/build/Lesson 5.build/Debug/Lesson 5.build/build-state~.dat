@@ -1,0 +1,64 @@
+TLesson 5
+v7
+r0
+t290490447.411670
+cCheck dependencies
+cCompileC "build/Lesson 5.build/Debug/Lesson 5.build/Objects-normal/x86_64/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 5/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Lucas/Desktop/C Programming/Lesson 5/build/Debug/Lesson 5" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B60F1D800000000000000EE
+t1264644568
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Lucas/Desktop/C Programming/Lesson 5/build/Debug/Lesson 5
+t1268797647
+s8984
+
+N/Users/Lucas/Desktop/C Programming/Lesson 5/build/Lesson 5.build/Debug/Lesson 5.build/Objects-normal/x86_64/Lesson 5.LinkFileList
+c000000004BA050CF0000000000000073
+t1268797647
+s115
+
+N/Users/Lucas/Desktop/C Programming/Lesson 5/build/Lesson 5.build/Debug/Lesson 5.build/Objects-normal/x86_64/main.o
+t1268797647
+s2884
+
+N/Users/Lucas/Desktop/C Programming/Lesson 5/main.c
+c000000004BA050CF00000000000000CB
+t1268797647
+s203
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290490447#290490447#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC "build/Lesson 5.build/Debug/Lesson 5.build/Objects-normal/x86_64/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 5/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s290490447.289191
+e290490447.369359
+r1
+xCompileC
+xbuild/Lesson 5.build/Debug/Lesson 5.build/Objects-normal/x86_64/main.o
+x/Users/Lucas/Desktop/C Programming/Lesson 5/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Lucas/Desktop/C Programming/Lesson 5/main.c290490447#290490447#0(0"0(0#0#50"/Users/Lucas/Desktop/C Programming/Lesson 5/main.c8245930584228258816#1365"    cd "/Users/Lucas/Desktop/C Programming/Lesson 5"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Lucas/Desktop/C Programming/Lesson 5/build/Lesson 5.build/Debug/Lesson 5.build/Lesson 5-generated-files.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 5/build/Lesson 5.build/Debug/Lesson 5.build/Lesson 5-own-target-headers.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 5/build/Lesson 5.build/Debug/Lesson 5.build/Lesson 5-all-target-headers.hmap" -iquote "/Users/Lucas/Desktop/C Programming/Lesson 5/build/Lesson 5.build/Debug/Lesson 5.build/Lesson 5-project-headers.hmap" "-F/Users/Lucas/Desktop/C Programming/Lesson 5/build/Debug" "-I/Users/Lucas/Desktop/C Programming/Lesson 5/build/Debug/include" "-I/Users/Lucas/Desktop/C Programming/Lesson 5/build/Lesson 5.build/Debug/Lesson 5.build/DerivedSources/x86_64" "-I/Users/Lucas/Desktop/C Programming/Lesson 5/build/Lesson 5.build/Debug/Lesson 5.build/DerivedSources" -c "/Users/Lucas/Desktop/C Programming/Lesson 5/main.c" -o "/Users/Lucas/Desktop/C Programming/Lesson 5/build/Lesson 5.build/Debug/Lesson 5.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Lucas/Desktop/C Programming/Lesson 5/build/Debug/Lesson 5" normal x86_64
+s290490447.369801
+e290490447.411614
+r1
+xLd
+x/Users/Lucas/Desktop/C Programming/Lesson 5/build/Debug/Lesson 5
+xnormal
+xx86_64
+lSLF07#2@69"Link /Users/Lucas/Desktop/C Programming/Lesson 5/build/Debug/Lesson 5290490447#290490447#0(0"0(0#0#0"4300885448#537"    cd "/Users/Lucas/Desktop/C Programming/Lesson 5"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Lucas/Desktop/C Programming/Lesson 5/build/Debug" "-F/Users/Lucas/Desktop/C Programming/Lesson 5/build/Debug" -filelist "/Users/Lucas/Desktop/C Programming/Lesson 5/build/Lesson 5.build/Debug/Lesson 5.build/Objects-normal/x86_64/Lesson 5.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Lucas/Desktop/C Programming/Lesson 5/build/Debug/Lesson 5"0#
+

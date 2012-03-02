@@ -1,0 +1,64 @@
+TLesson 11
+v7
+r0
+t292368447.890264
+cCheck dependencies
+cCompileC "build/Lesson 11.build/Debug/Lesson 11.build/Objects-normal/x86_64/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 11/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Lucas/Desktop/C Programming/Lesson 11/build/Debug/Lesson 11" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC326060000000000004174
+t1254303238
+s16756
+
+N/Users/Lucas/Desktop/C Programming/Lesson 11/build/Debug/Lesson 11
+t1270675647
+s9112
+
+N/Users/Lucas/Desktop/C Programming/Lesson 11/build/Lesson 11.build/Debug/Lesson 11.build/Objects-normal/x86_64/Lesson 11.LinkFileList
+c000000004BBCF8BF0000000000000076
+t1270675647
+s118
+
+N/Users/Lucas/Desktop/C Programming/Lesson 11/build/Lesson 11.build/Debug/Lesson 11.build/Objects-normal/x86_64/main.o
+t1270675647
+s3044
+
+N/Users/Lucas/Desktop/C Programming/Lesson 11/main.c
+c000000004BBCF8BF00000000000000EA
+t1270675647
+s234
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292368447#292368447#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC "build/Lesson 11.build/Debug/Lesson 11.build/Objects-normal/x86_64/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 11/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s292368447.542479
+e292368447.589385
+r1
+xCompileC
+xbuild/Lesson 11.build/Debug/Lesson 11.build/Objects-normal/x86_64/main.o
+x/Users/Lucas/Desktop/C Programming/Lesson 11/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Lucas/Desktop/C Programming/Lesson 11/main.c292368447#292368447#0(0"0(0#0#51"/Users/Lucas/Desktop/C Programming/Lesson 11/main.c7939128661845044224#1394"    cd "/Users/Lucas/Desktop/C Programming/Lesson 11"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Lucas/Desktop/C Programming/Lesson 11/build/Lesson 11.build/Debug/Lesson 11.build/Lesson 11-generated-files.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 11/build/Lesson 11.build/Debug/Lesson 11.build/Lesson 11-own-target-headers.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 11/build/Lesson 11.build/Debug/Lesson 11.build/Lesson 11-all-target-headers.hmap" -iquote "/Users/Lucas/Desktop/C Programming/Lesson 11/build/Lesson 11.build/Debug/Lesson 11.build/Lesson 11-project-headers.hmap" "-F/Users/Lucas/Desktop/C Programming/Lesson 11/build/Debug" "-I/Users/Lucas/Desktop/C Programming/Lesson 11/build/Debug/include" "-I/Users/Lucas/Desktop/C Programming/Lesson 11/build/Lesson 11.build/Debug/Lesson 11.build/DerivedSources/x86_64" "-I/Users/Lucas/Desktop/C Programming/Lesson 11/build/Lesson 11.build/Debug/Lesson 11.build/DerivedSources" -c "/Users/Lucas/Desktop/C Programming/Lesson 11/main.c" -o "/Users/Lucas/Desktop/C Programming/Lesson 11/build/Lesson 11.build/Debug/Lesson 11.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Lucas/Desktop/C Programming/Lesson 11/build/Debug/Lesson 11" normal x86_64
+s292368447.589844
+e292368447.890195
+r1
+xLd
+x/Users/Lucas/Desktop/C Programming/Lesson 11/build/Debug/Lesson 11
+xnormal
+xx86_64
+lSLF07#2@71"Link /Users/Lucas/Desktop/C Programming/Lesson 11/build/Debug/Lesson 11292368447#292368447#0(0"0(0#0#0"4300911832#546"    cd "/Users/Lucas/Desktop/C Programming/Lesson 11"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Lucas/Desktop/C Programming/Lesson 11/build/Debug" "-F/Users/Lucas/Desktop/C Programming/Lesson 11/build/Debug" -filelist "/Users/Lucas/Desktop/C Programming/Lesson 11/build/Lesson 11.build/Debug/Lesson 11.build/Objects-normal/x86_64/Lesson 11.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Lucas/Desktop/C Programming/Lesson 11/build/Debug/Lesson 11"0#
+

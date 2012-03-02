@@ -1,0 +1,56 @@
+TLesson 6
+v7
+r0
+t291181460.902467
+cCheck dependencies
+cCompileC "build/Lesson 6.build/Debug/Lesson 6.build/Objects-normal/x86_64/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 6/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B60F1D800000000000000EE
+t1264644568
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Lucas/Desktop/C Programming/Lesson 6/build/Debug/Lesson 6
+t2
+s0
+
+N/Users/Lucas/Desktop/C Programming/Lesson 6/build/Lesson 6.build/Debug/Lesson 6.build/Objects-normal/x86_64/Lesson 6.LinkFileList
+c000000004BAADC140000000000000073
+t1269488660
+s115
+
+N/Users/Lucas/Desktop/C Programming/Lesson 6/build/Lesson 6.build/Debug/Lesson 6.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/Lucas/Desktop/C Programming/Lesson 6/main.c
+c000000004BAADC1400000000000000A6
+t1269488660
+s166
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies291181460#291181460#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC "build/Lesson 6.build/Debug/Lesson 6.build/Objects-normal/x86_64/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 6/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s291181460.864682
+e291181460.902391
+r0
+xCompileC
+xbuild/Lesson 6.build/Debug/Lesson 6.build/Objects-normal/x86_64/main.o
+x/Users/Lucas/Desktop/C Programming/Lesson 6/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Lucas/Desktop/C Programming/Lesson 6/main.c291181460#291181460#0(252"/Users/Lucas/Desktop/C Programming/Lesson 6/main.c: In function 'main':/Users/Lucas/Desktop/C Programming/Lesson 6/main.c:6: error: expected ',' or ';' before 'int'/Users/Lucas/Desktop/C Programming/Lesson 6/main.c:5: warning: unused variable 'num1'2(4@32"Expected ',' or ';' before 'int'291181460#72#94#0(6@50"/Users/Lucas/Desktop/C Programming/Lesson 6/main.c291181460#6#0#6#0#19"expected * before *0(22@22"Unused variable 'num1'291181460#166#86#0(6@50"/Users/Lucas/Desktop/C Programming/Lesson 6/main.c291181460#5#0#5#0#19"unused variable '*'0(0#0#50"/Users/Lucas/Desktop/C Programming/Lesson 6/main.c8245930584228258816#1365"    cd "/Users/Lucas/Desktop/C Programming/Lesson 6"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Lucas/Desktop/C Programming/Lesson 6/build/Lesson 6.build/Debug/Lesson 6.build/Lesson 6-generated-files.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 6/build/Lesson 6.build/Debug/Lesson 6.build/Lesson 6-own-target-headers.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 6/build/Lesson 6.build/Debug/Lesson 6.build/Lesson 6-all-target-headers.hmap" -iquote "/Users/Lucas/Desktop/C Programming/Lesson 6/build/Lesson 6.build/Debug/Lesson 6.build/Lesson 6-project-headers.hmap" "-F/Users/Lucas/Desktop/C Programming/Lesson 6/build/Debug" "-I/Users/Lucas/Desktop/C Programming/Lesson 6/build/Debug/include" "-I/Users/Lucas/Desktop/C Programming/Lesson 6/build/Lesson 6.build/Debug/Lesson 6.build/DerivedSources/x86_64" "-I/Users/Lucas/Desktop/C Programming/Lesson 6/build/Lesson 6.build/Debug/Lesson 6.build/DerivedSources" -c "/Users/Lucas/Desktop/C Programming/Lesson 6/main.c" -o "/Users/Lucas/Desktop/C Programming/Lesson 6/build/Lesson 6.build/Debug/Lesson 6.build/Objects-normal/x86_64/main.o"1#
+
+CLd "/Users/Lucas/Desktop/C Programming/Lesson 6/build/Debug/Lesson 6" normal x86_64
+r0
+

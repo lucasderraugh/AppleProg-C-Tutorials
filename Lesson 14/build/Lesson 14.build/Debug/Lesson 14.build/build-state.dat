@@ -1,0 +1,64 @@
+TLesson 14
+v7
+r0
+t293165025.964807
+cCheck dependencies
+cCompileC "build/Lesson 14.build/Debug/Lesson 14.build/Objects-normal/x86_64/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 14/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/Lucas/Desktop/C Programming/Lesson 14/build/Debug/Lesson 14" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC326060000000000004174
+t1254303238
+s16756
+
+N/Users/Lucas/Desktop/C Programming/Lesson 14/build/Debug/Lesson 14
+t1271472225
+s9096
+
+N/Users/Lucas/Desktop/C Programming/Lesson 14/build/Lesson 14.build/Debug/Lesson 14.build/Objects-normal/x86_64/Lesson 14.LinkFileList
+c000000004BC91A3C0000000000000076
+t1271470652
+s118
+
+N/Users/Lucas/Desktop/C Programming/Lesson 14/build/Lesson 14.build/Debug/Lesson 14.build/Objects-normal/x86_64/main.o
+t1271472223
+s3196
+
+N/Users/Lucas/Desktop/C Programming/Lesson 14/main.c
+c000000004BC9205F0000000000000126
+t1271472223
+s294
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies293165025#293165025#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC "build/Lesson 14.build/Debug/Lesson 14.build/Objects-normal/x86_64/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 14/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s293165025.942901
+e293165025.944085
+r1
+xCompileC
+xbuild/Lesson 14.build/Debug/Lesson 14.build/Objects-normal/x86_64/main.o
+x/Users/Lucas/Desktop/C Programming/Lesson 14/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/Lucas/Desktop/C Programming/Lesson 14/main.c293165025#293165025#0(0"0(0#0#51"/Users/Lucas/Desktop/C Programming/Lesson 14/main.c4300911832#1394"    cd "/Users/Lucas/Desktop/C Programming/Lesson 14"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Lucas/Desktop/C Programming/Lesson 14/build/Lesson 14.build/Debug/Lesson 14.build/Lesson 14-generated-files.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 14/build/Lesson 14.build/Debug/Lesson 14.build/Lesson 14-own-target-headers.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 14/build/Lesson 14.build/Debug/Lesson 14.build/Lesson 14-all-target-headers.hmap" -iquote "/Users/Lucas/Desktop/C Programming/Lesson 14/build/Lesson 14.build/Debug/Lesson 14.build/Lesson 14-project-headers.hmap" "-F/Users/Lucas/Desktop/C Programming/Lesson 14/build/Debug" "-I/Users/Lucas/Desktop/C Programming/Lesson 14/build/Debug/include" "-I/Users/Lucas/Desktop/C Programming/Lesson 14/build/Lesson 14.build/Debug/Lesson 14.build/DerivedSources/x86_64" "-I/Users/Lucas/Desktop/C Programming/Lesson 14/build/Lesson 14.build/Debug/Lesson 14.build/DerivedSources" -c "/Users/Lucas/Desktop/C Programming/Lesson 14/main.c" -o "/Users/Lucas/Desktop/C Programming/Lesson 14/build/Lesson 14.build/Debug/Lesson 14.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/Lucas/Desktop/C Programming/Lesson 14/build/Debug/Lesson 14" normal x86_64
+s293165025.944151
+e293165025.964759
+r1
+xLd
+x/Users/Lucas/Desktop/C Programming/Lesson 14/build/Debug/Lesson 14
+xnormal
+xx86_64
+lSLF07#2@71"Link /Users/Lucas/Desktop/C Programming/Lesson 14/build/Debug/Lesson 14293165025#293165025#0(0"0(0#0#0"4300911832#546"    cd "/Users/Lucas/Desktop/C Programming/Lesson 14"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Lucas/Desktop/C Programming/Lesson 14/build/Debug" "-F/Users/Lucas/Desktop/C Programming/Lesson 14/build/Debug" -filelist "/Users/Lucas/Desktop/C Programming/Lesson 14/build/Lesson 14.build/Debug/Lesson 14.build/Objects-normal/x86_64/Lesson 14.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Lucas/Desktop/C Programming/Lesson 14/build/Debug/Lesson 14"0#
+

@@ -1,0 +1,169 @@
+TLesson 3
+v7
+r0
+t290160255.923175
+cCheck dependencies
+cCompileC "build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 3/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC "build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 3/main.c" normal i386 c com.apple.compilers.gcc.4_2
+cLd "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/Lesson 3" normal x86_64
+cLd "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/Lesson 3" normal i386
+cCompileC "build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 3/main.c" normal ppc c com.apple.compilers.gcc.4_2
+cLd "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/Lesson 3" normal ppc
+cCreateUniversalBinary "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3" normal "x86_64 i386 ppc"
+cGenerateDSYMFile "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3.dSYM" "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3"
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B60F1D800000000000000EE
+t1264644568
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/Lesson 3
+t1268467455
+s8884
+
+N/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/Lesson 3.LinkFileList
+c000000004B9B46FE0000000000000073
+t1268467454
+s115
+
+N/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/main.o
+t1268467454
+s2140
+
+N/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/Lesson 3
+t1268467455
+s8736
+
+N/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/Lesson 3.LinkFileList
+c000000004B9B46FE0000000000000072
+t1268467454
+s114
+
+N/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/main.o
+t1268467455
+s2276
+
+N/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/Lesson 3
+t1268467455
+s8960
+
+N/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/Lesson 3.LinkFileList
+c000000004B9B46FE0000000000000075
+t1268467454
+s117
+
+N/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/main.o
+t1268467454
+s2740
+
+N/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3
+t1268467455
+s37408
+
+N/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3.dSYM
+t1268467455
+s102
+
+N/Users/Lucas/Desktop/C Programming/Lesson 3/main.c
+c000000004B9B467A0000000000000089
+t1268467322
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies290160254#290160254#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC "build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 3/main.c" normal i386 c com.apple.compilers.gcc.4_2
+s290160254.631164
+e290160254.843121
+r1
+xCompileC
+xbuild/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/main.o
+x/Users/Lucas/Desktop/C Programming/Lesson 3/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Lucas/Desktop/C Programming/Lesson 3/main.c290160254#290160254#0(0"0(0#0#50"/Users/Lucas/Desktop/C Programming/Lesson 3/main.c4300885448#1395"    cd "/Users/Lucas/Desktop/C Programming/Lesson 3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Lesson 3-generated-files.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Lesson 3-own-target-headers.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Lesson 3-all-target-headers.hmap" -iquote "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Lesson 3-project-headers.hmap" "-F/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/include" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/DerivedSources/i386" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/DerivedSources" -c "/Users/Lucas/Desktop/C Programming/Lesson 3/main.c" -o "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/main.o"0#
+
+CCompileC "build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 3/main.c" normal ppc c com.apple.compilers.gcc.4_2
+s290160255.187676
+e290160255.716144
+r1
+xCompileC
+xbuild/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/main.o
+x/Users/Lucas/Desktop/C Programming/Lesson 3/main.c
+xnormal
+xppc
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Lucas/Desktop/C Programming/Lesson 3/main.c290160255#290160255#0(0"0(0#0#50"/Users/Lucas/Desktop/C Programming/Lesson 3/main.c4300885448#1389"    cd "/Users/Lucas/Desktop/C Programming/Lesson 3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch ppc -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mtune=G5 -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Lesson 3-generated-files.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Lesson 3-own-target-headers.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Lesson 3-all-target-headers.hmap" -iquote "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Lesson 3-project-headers.hmap" "-F/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/include" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/DerivedSources/ppc" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/DerivedSources" -c "/Users/Lucas/Desktop/C Programming/Lesson 3/main.c" -o "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/main.o"0#
+
+CCompileC "build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 3/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s290160254.590372
+e290160254.835425
+r1
+xCompileC
+xbuild/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/main.o
+x/Users/Lucas/Desktop/C Programming/Lesson 3/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/Lucas/Desktop/C Programming/Lesson 3/main.c290160254#290160254#0(0"0(0#0#50"/Users/Lucas/Desktop/C Programming/Lesson 3/main.c7939128661845044224#1401"    cd "/Users/Lucas/Desktop/C Programming/Lesson 3"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -Os -mdynamic-no-pic -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Lesson 3-generated-files.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Lesson 3-own-target-headers.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Lesson 3-all-target-headers.hmap" -iquote "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Lesson 3-project-headers.hmap" "-F/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/include" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/DerivedSources/x86_64" "-I/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/DerivedSources" -c "/Users/Lucas/Desktop/C Programming/Lesson 3/main.c" -o "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/main.o"0#
+
+CCreateUniversalBinary "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3" normal "x86_64 i386 ppc"
+s290160255.817588
+e290160255.873977
+r1
+xCreateUniversalBinary
+x/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3
+xnormal
+xx86_64 i386 ppc
+lSLF07#2@71"CreateUniversalBinary "build/Release/Lesson 3" normal "x86_64 i386 ppc"290160255#290160255#0(0"0(0#0#59"/Users/Lucas/Desktop/C Programming/Lesson 3/x86_64 i386 ppc4300885448#514"    cd "/Users/Lucas/Desktop/C Programming/Lesson 3"    /usr/bin/lipo -create "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/Lesson 3" "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/Lesson 3" "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/Lesson 3" -output "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3"0#
+
+CGenerateDSYMFile "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3.dSYM" "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3"
+s290160255.874068
+e290160255.923118
+r1
+xGenerateDSYMFile
+x/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3.dSYM
+x/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3
+lSLF07#2@71"GenerateDSYMFile "build/Release/Lesson 3.dSYM" "build/Release/Lesson 3"290160255#290160255#0(0"0(0#0#66"/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 34300885448#231"    cd "/Users/Lucas/Desktop/C Programming/Lesson 3"    /Developer/usr/bin/dsymutil "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3" -o "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release/Lesson 3.dSYM"0#
+
+CLd "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/Lesson 3" normal i386
+s290160254.843216
+e290160255.187574
+r1
+xLd
+x/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/Lesson 3
+xnormal
+xi386
+lSLF07#2@121"Link /Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/Lesson 3290160254#290160255#0(0"0(0#0#0"4300885448#591"    cd "/Users/Lucas/Desktop/C Programming/Lesson 3"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release" "-F/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release" -filelist "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/Lesson 3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/i386/Lesson 3"0#
+
+CLd "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/Lesson 3" normal ppc
+s290160255.716279
+e290160255.817475
+r1
+xLd
+x/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/Lesson 3
+xnormal
+xppc
+lSLF07#2@120"Link /Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/Lesson 3290160255#290160255#0(0"0(0#0#0"4300885448#588"    cd "/Users/Lucas/Desktop/C Programming/Lesson 3"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release" "-F/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release" -filelist "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/Lesson 3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/ppc/Lesson 3"0#
+
+CLd "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/Lesson 3" normal x86_64
+s290160254.835549
+e290160255.187257
+r1
+xLd
+x/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/Lesson 3
+xnormal
+xx86_64
+lSLF07#2@123"Link /Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/Lesson 3290160254#290160255#0(0"0(0#0#0"4300885448#597"    cd "/Users/Lucas/Desktop/C Programming/Lesson 3"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release" "-F/Users/Lucas/Desktop/C Programming/Lesson 3/build/Release" -filelist "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/Lesson 3.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Lucas/Desktop/C Programming/Lesson 3/build/Lesson 3.build/Release/Lesson 3.build/Objects-normal/x86_64/Lesson 3"0#
+

@@ -1,0 +1,64 @@
+TLesson 41
+v7
+r0
+t321041516.024948
+cCheck dependencies
+cCompileC "build/Lesson 41.build/Debug/Lesson 41.build/Objects-normal/x86_64/main.o" "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+cLd "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Debug/Lesson 41" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Debug/Lesson 41
+t1299348716
+s9056
+
+N/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Lesson 41.build/Debug/Lesson 41.build/Objects-normal/x86_64/Lesson 41.LinkFileList
+c000000004D7187C40000000000000083
+t1299285956
+s131
+
+N/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Lesson 41.build/Debug/Lesson 41.build/Objects-normal/x86_64/main.o
+t1299301378
+s2880
+
+N/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/main.c
+c000000004D71C40200000000000000EA
+t1299301378
+s234
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321041515#321041515#0(0"0(0#1#0"8616199776#0"0#
+
+CCompileC "build/Lesson 41.build/Debug/Lesson 41.build/Objects-normal/x86_64/main.o" "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s321041515.998015
+e321041516.009056
+r1
+xCompileC
+xbuild/Lesson 41.build/Debug/Lesson 41.build/Objects-normal/x86_64/main.o
+x/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/main.c321041515#321041516#0(0"0(0#0#64"/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/main.c8623798624#1537"    cd "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Lesson 41.build/Debug/Lesson 41.build/Lesson 41-generated-files.hmap" "-I/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Lesson 41.build/Debug/Lesson 41.build/Lesson 41-own-target-headers.hmap" "-I/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Lesson 41.build/Debug/Lesson 41.build/Lesson 41-all-target-headers.hmap" -iquote "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Lesson 41.build/Debug/Lesson 41.build/Lesson 41-project-headers.hmap" "-F/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Debug" "-I/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Debug/include" "-I/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Lesson 41.build/Debug/Lesson 41.build/DerivedSources/x86_64" "-I/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Lesson 41.build/Debug/Lesson 41.build/DerivedSources" -c "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/main.c" -o "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Lesson 41.build/Debug/Lesson 41.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Debug/Lesson 41" normal x86_64
+s321041516.009130
+e321041516.024872
+r1
+xLd
+x/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Debug/Lesson 41
+xnormal
+xx86_64
+lSLF07#2@84"Link /Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Debug/Lesson 41321041516#321041516#0(0"0(0#0#0"8616869152#611"    cd "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Debug" "-F/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Debug" -filelist "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Lesson 41.build/Debug/Lesson 41.build/Objects-normal/x86_64/Lesson 41.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 41/build/Debug/Lesson 41"0#
+
