@@ -92,7 +92,7 @@
 		1D724A8B1473525A0012E5B8 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0430;
 			};
 			buildConfigurationList = 1D724A8E1473525A0012E5B8 /* Build configuration list for PBXProject "Lesson 44" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -201,6 +201,7 @@
 				1D724AA01473525A0012E5B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

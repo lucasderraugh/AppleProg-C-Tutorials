@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main (int argc, const char * argv[]) {
-	char myChar = 255;
-	printf("%d", myChar);
+	char myChar = 76;
+	printf("%c", myChar);
 }
