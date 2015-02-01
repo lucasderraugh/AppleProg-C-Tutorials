@@ -1,106 +1,0 @@
-TLesson 4
-v7
-r0
-t314144228.695742
-cCheck dependencies
-cCompileC "build/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/main.o" "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
-cLd "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Debug/Lesson 4" normal x86_64
-
-N/Developer/SDKs/MacOSX10.6.sdk
-c000000004CAA740B00000000000000EE
-t1286239243
-s238
-
-N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
-c000000004BBD2CE90000000000004174
-t1270689001
-s16756
-
-N/Users/Lucas/Desktop/C Programming/Lesson 4/build/Debug/Lesson 4
-t1270067453
-s9104
-
-N/Users/Lucas/Desktop/C Programming/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/Lesson 4.LinkFileList
-c000000004B9C01E30000000000000073
-t1268515299
-s115
-
-N/Users/Lucas/Desktop/C Programming/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/main.o
-t1270067453
-s3192
-
-N/Users/Lucas/Desktop/C Programming/Lesson 4/main.c
-c000000004BB3B0FD0000000000000117
-t1270067453
-s279
-i<stdio.h>
-
-N/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Debug/Lesson 4
-t1292451428
-s9128
-
-N/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/Lesson 4.LinkFileList
-c000000004D093E270000000000000080
-t1292451367
-s128
-
-N/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/main.o
-t1292451424
-s3208
-
-N/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/main.c
-c000000004D093E600000000000000117
-t1292451424
-s279
-i<stdio.h>
-
-CCheck dependencies
-r0
-lSLF07#2@18"Check dependencies314144228#314144228#0(0"0(0#1#0"8605500032#0"0#
-
-CCompileC "build/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/main.o" "/Users/Lucas/Desktop/C Programming/Lesson 4/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s291760253.612450
-e291760253.636687
-r1
-xCompileC
-xbuild/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/main.o
-x/Users/Lucas/Desktop/C Programming/Lesson 4/main.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@58"Compile /Users/Lucas/Desktop/C Programming/Lesson 4/main.c291760253#291760253#0(0"0(0#0#50"/Users/Lucas/Desktop/C Programming/Lesson 4/main.c4300885448#1365"    cd "/Users/Lucas/Desktop/C Programming/Lesson 4"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/Lucas/Desktop/C Programming/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Lesson 4-generated-files.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Lesson 4-own-target-headers.hmap" "-I/Users/Lucas/Desktop/C Programming/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Lesson 4-all-target-headers.hmap" -iquote "/Users/Lucas/Desktop/C Programming/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Lesson 4-project-headers.hmap" "-F/Users/Lucas/Desktop/C Programming/Lesson 4/build/Debug" "-I/Users/Lucas/Desktop/C Programming/Lesson 4/build/Debug/include" "-I/Users/Lucas/Desktop/C Programming/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/DerivedSources/x86_64" "-I/Users/Lucas/Desktop/C Programming/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/DerivedSources" -c "/Users/Lucas/Desktop/C Programming/Lesson 4/main.c" -o "/Users/Lucas/Desktop/C Programming/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/main.o"0#
-
-CCompileC "build/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/main.o" "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
-s314144228.672637
-e314144228.673671
-r1
-xCompileC
-xbuild/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/main.o
-x/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/main.c
-xnormal
-xx86_64
-xc
-xcom.apple.compilers.gcc.4_2
-lSLF07#2@71"Compile /Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/main.c314144228#314144228#0(0"0(0#0#63"/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/main.c8605265952#1508"    cd "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Lesson 4-generated-files.hmap" "-I/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Lesson 4-own-target-headers.hmap" "-I/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Lesson 4-all-target-headers.hmap" -iquote "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Lesson 4-project-headers.hmap" "-F/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Debug" "-I/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Debug/include" "-I/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/DerivedSources/x86_64" "-I/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/DerivedSources" -c "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/main.c" -o "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/main.o"0#
-
-CLd "/Users/Lucas/Desktop/C Programming/Lesson 4/build/Debug/Lesson 4" normal x86_64
-s291760253.636757
-e291760253.658895
-r1
-xLd
-x/Users/Lucas/Desktop/C Programming/Lesson 4/build/Debug/Lesson 4
-xnormal
-xx86_64
-lSLF07#2@69"Link /Users/Lucas/Desktop/C Programming/Lesson 4/build/Debug/Lesson 4291760253#291760253#0(0"0(0#0#0"4300885448#537"    cd "/Users/Lucas/Desktop/C Programming/Lesson 4"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/Lucas/Desktop/C Programming/Lesson 4/build/Debug" "-F/Users/Lucas/Desktop/C Programming/Lesson 4/build/Debug" -filelist "/Users/Lucas/Desktop/C Programming/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/Lesson 4.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/Lucas/Desktop/C Programming/Lesson 4/build/Debug/Lesson 4"0#
-
-CLd "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Debug/Lesson 4" normal x86_64
-s314144228.673731
-e314144228.695698
-r1
-xLd
-x/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Debug/Lesson 4
-xnormal
-xx86_64
-lSLF07#2@82"Link /Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Debug/Lesson 4314144228#314144228#0(0"0(0#0#0"8605483136#602"    cd "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Debug" "-F/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Debug" -filelist "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Lesson 4.build/Debug/Lesson 4.build/Objects-normal/x86_64/Lesson 4.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/lucasderraugh/Desktop/C Programming Tuts/Lesson 4/build/Debug/Lesson 4"0#
-
