@@ -6,6 +6,7 @@ int main (int argc, const char * argv[]) {
 	
 	while (i <= 10) {
 		i++;
+        printf("%d\n", i);
 	}
 	
     return 0;
